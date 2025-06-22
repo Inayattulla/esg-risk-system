@@ -1,0 +1,1158 @@
+📄 Company ESG Risk Summary Report
+====================================
+🏢 Company Name       : Unknown
+🕒 Date of Analysis   : 2025-06-21 15:44:27
+📊 Total ESG Terms    : 571
+⚖️  Total Weighted ESG Score : 1060
+🔍 Final ESG Risk Level      : Medium Risk
+
+🚨 Highest Risky Sentence:
+"about us
+our esg performance
+our governance approach
+33
+
+ 
+asset
+type
+size 
+(mw)
+location
+country
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+mwhr 
+produced 
+co2 
+avoided 
+(tco2e) 
+# houses 
+powered
+internal 
+ehs audits
+notifiable 
+environmental 
+incidents
+aeolus/ 
+bunnyconnellan
+wind farm
+ 27.6 
+mayo
+ireland
+ 64,053 
+ 20,860 
+ 13,897 
+ 6 
+ - 
+airies
+wind farm
+ 39.9 
+dunfries & 
+galloway
+scotland
+ 64,305 
+ 13,316 
+ 17,630 
+ 6 
+ - 
+altaveedan
+wind farm
+ 21.2 
+antrim
+northern ireland
+ 43,353 
+ 8,978 
+ 11,805 
+ 10 
+ - 
+ardoch and over 
+enoch
+wind farm
+ 11.5 
+east 
+renfrewshire
+scotland
+ 25,398 
+ 5,259 
+ 6,911 
+ 3 
+ - 
+boolard
+wind farm
+ 5.0 
+cork
+ireland
+ 15,041 
+ 4,898 
+ 3,263 
+ 6 
+ - 
+castlecraig 
+(willmount)
+wind farm
+ 25.0 
+tyrone
+northern ireland
+ 49,010 
+ 10,149 
+ 13,343 
+ 2 
+ - 
+coollegrean
+wind farm
+ 17.5 
+kerry
+ireland
+ 46,495 
+ 15,120 
+ 10,077 
+ 6 
+ - 
+ora more
+wind farm
+ 17.1 
+fermanagh
+northern ireland
+ 31,719 
+ 6,568 
+ 8,641 
+ 4 
+ - 
+quixwood moor
+wind farm
+ 26.5 
+east 
+berwickshire
+scotland
+ 61,074 
+ 12,647 
+ 16,585 
+ 6 
+ - 
+rathnacally
+wind farm
+ 6.4 
+cork
+ireland
+ 16,617 
+ 5,412 
+ 3,605 
+ 7 
+ - 
+single turbines
+wind farm
+ 3.2 
+multiple sites
+northern ireland
+ 5,762 
+ 1,193 
+ 1,567 
+ 14 
+ - 
+teevurcher
+wind farm
+ 10.3 
+meath
+ireland
+ 29,102 
+ 9,462 
+ 6,306 
+ 4 
+ - 
+twin rivers
+wind farm
+ 28.7 
+yorkshire
+england
+ 64,976 
+ 13,456 
+ 17,639 
+ 6 
+ - 
+fund 1 subtotal
+ 13.0 
+ 239.8 
+ 516,904 
+ 127,319 
+ 131,268 
+ 80 
+ - 
+figure 27: ntr wind 1 lp fund assets (fund 1) 
+ntr asset esg performance metrics 
+(continued)
+ntr - esg annual report 2024
+34
+
+2023/2024 2023/2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/2024
+2023/2024
+independent 
+ecological 
+audits
+site 
+inductions
+hours 
+worked
+local 
+employment 
+hours worked
+lost 
+time 
+incidents
+accidents
+near 
+misses
+good 
+observations
+community 
+meetings
+complaints
+community 
+fund grant 
+distributions 
+(€)
+payments 
+to local 
+authorities 
+(€)
+ 1 
+ - 
+ 2,062 
+ 1,701 
+ - 
+-
+ - 
+ 11 
+ 1 
+ - 
+ €31,836 
+ €508,338 
+ 4 
+ - 
+ 1,670 
+ 1,378 
+ - 
+-
+ 2 
+ 29 
+ - 
+ - 
+ €290,202 
+ €366,112 
+ 2 
+ - 
+ 1,540 
+ 1,271 
+ - 
+-
+ 1 
+ 6 
+ - 
+ - 
+ €139,140 
+ €373,870 
+ - 
+ - 
+ 879 
+ 725 
+ - 
+-
+ - 
+ 8 
+ - 
+ - 
+ €38,096 
+ €181,133 
+ - 
+ - 
+ 421 
+ 347 
+ - 
+-
+ - 
+ 9 
+ 1 
+ - 
+ €14,419 
+ €20,796 
+ - 
+ - 
+ 1,952 
+ 1,610 
+ - 
+-
+ - 
+ 19 
+ 1 
+ - 
+ €158,470 
+ €334,205 
+ 1 
+ - 
+ 2,011 
+ 1,659 
+ - 
+-
+ - 
+ 21 
+ - 
+ 1 
+ €25,000 
+ €141,933 
+ - 
+ - 
+ 1,999 
+ 1,649 
+ - 
+-
+ - 
+ 8 
+ - 
+ - 
+ €107,370 
+ €206,673 
+ 4 
+ - 
+ 2,525 
+ 2,083 
+ - 
+-
+ - 
+ 8 
+ - 
+ - 
+ €139,096 
+-€42,265 
+ - 
+ - 
+ 368 
+ 304 
+ - 
+-
+ - 
+ 11 
+ - 
+ - 
+ €14,419 
+ €20,796 
+ - 
+ - 
+ 708 
+ 584 
+ - 
+-
+ - 
+ 63 
+ - 
+ - 
+ - 
+ €77,676 
+ 1 
+ - 
+ 1,158 
+ 955 
+ - 
+-
+ - 
+ 6 
+ - 
+ - 
+ €69,107 
+ €35,872 
+ - 
+ - 
+ 1,361 
+ 1,123 
+ - 
+-
+ - 
+ 10 
+ - 
+ - 
+ €49,826 
+ €454,420 
+ 13 
+ -  18,653 
+ 15,389 
+ - 
+ - 
+ 3 
+ 209 
+ 3 
+ 1  €1,076,980  €2,679,561 
+about us
+our esg performance
+our governance approach
+35
+
+ntr asset esg performance metrics 
+(continued)
+asset
+type
+size 
+(mw)
+location
+country
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+mwhr 
+produced 
+co2 avoided 
+(tco2e) 
+# houses 
+powered
+internal 
+ehs audits
+notifiable 
+environmental 
+incidents
+apollo
+solar farm
+ 38.4 
+multiple sites
+england
+ 37,714 
+ 7,810 
+ 10,413 
+ 7 
+ - 
+arlena-tessennano
+wind farm
+ 18.0 
+viterbo, lazio
+italy
+ 38,478 
+ 9,189 
+ 14,648 
+ 4 
+ - 
+artigues 
+and ollières 
+(provencialis)
+wind farm
+ 48.4 
+provence-
+alpes-cote 
+d'azur
+france
+ 107,738 
+ 6,589 
+ 19,414 
+ 6 
+ 1 
+avonbeg bess
+battery 
+system
+ 16.0 
+wexford
+ireland
+ 33 
+ - 
+ - 
+ 1 
+ - 
+ballycumber
+wind farm
+ 19.2 
+wicklow
+ireland
+ 71,035 
+ 23,150 
+ 15,419 
+ 4 
+ - 
+bricqueville
+wind farm
+ 8.8 
+normandy
+france
+ 22,065 
+ 1,349 
+ 3,977 
+ 2 
+ - 
+gorey bess
+battery 
+system
+ 9.0 
+wexford
+ireland
+ 32 
+ - 
+ - 
+ 3 
+ - 
+gorey solar
+(exporting since dec 23)
+solar farm
+ 7.2 
+wexford
+ireland
+ 1,067 
+ 333 
+ 225 
+ 15 
+ - 
+macallian solar
+solar farm
+ 15.0 
+wexford
+ireland
+not in operation in reporting year
+ 29 
+ - 
+momerstroff i
+wind farm
+ 11.5 
+moselle
+france
+ 29,120 
+ 1,767 
+ 5,258 
+ 3 
+ - 
+momerstroff ii
+wind farm
+ 36.6 
+moselle
+france
+not in operation in reporting year
+ - 
+ - 
+murley
+wind farm
+ 21.6 
+tyrone
+northern 
+ireland
+not in operation in reporting year
+ 31 
+ - 
+norra-vedbo 
+wind farm
+ 86.0 
+jönköping and 
+aneby
+sweden
+ 268,083 
+ 2,239 
+ 29,284 
+ 4 
+ 2 
+ockendon
+solar farm
+ 58.8 
+london
+england
+not in operation in reporting year
+ 134 
+ - 
+saint-pierre-de-
+juillers
+wind farm
+ 10.2 
+nouvelle-
+aquitaine
+france
+ 23,611 
+ 1,448 
+ 4,252 
+ 2 
+ - 
+skutskär
+wind farm
+ 10.0 
+skutskär
+sweden
+ 27,011 
+ 227 
+ 2,954 
+ 3 
+ - 
+svalskulla
+wind farm
+ 15.0 
+ostrobothnia
+finland
+ 33,635 
+ 2,305 
+ 4,296 
+ 3 
+ - 
+trattberget
+wind farm
+ 69.0 
+örnsköldsvik
+sweden
+ 158,061 
+ 1,311 
+ 17,245 
+ 5 
+ - 
+fund 2 subtotal
+ 18.0 
+498.6 
+817,682 
+ 57,716 
+ 127,384 
+ 256 
+ 3 
+figure 28: ntr renewable energy income fund ii assets (fund 2)
+ntr - esg annual report 2024
+36
+
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+independent 
+ecological 
+audits
+site 
+inductions
+hours 
+worked
+local 
+employment 
+hours worked
+lost 
+time 
+incidents
+accidents
+near 
+misses
+good 
+observations
+community 
+meetings
+complaints
+community 
+fund grant 
+distributions 
+(€)
+payments 
+to local 
+authorities (€)
+ - 
+ - 
+ 722 
+ 596 
+ - 
+-
+ - 
+ 43 
+ - 
+ - 
+ - 
+ €127,911 
+ - 
+ - 
+ 904 
+ 746 
+ - 
+-
+ - 
+ 12 
+ - 
+ - 
+ €3,700 
+ €346,467 
+ 10 
+ - 
+ 3,750 
+ 3,094 
+ - 
+-
+ 2 
+ 51 
+ 1 
+ - 
+ €19,187 
+ - 
+ - 
+ - 
+ 244 
+ 201 
+ - 
+-
+ - 
+ 1 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 713 
+ 588 
+ - 
+-
+ - 
+ 5 
+ - 
+ - 
+ €21,800 
+ €229,369 
+ - 
+ - 
+ 539 
+ 445 
+ - 
+-
+ - 
+ 5 
+ - 
+ - 
+ - 
+ €38,376 
+ - 
+ - 
+ 1,057 
+ 872 
+ - 
+-
+ - 
+ 5 
+ - 
+ - 
+ - 
+ - 
+ 5 
+ 33 
+ 5,527 
+ 4,560 
+ - 
+ - 
+ 1 
+ 4 
+ - 
+ - 
+ - 
+ - 
+ 6 
+ 115 
+ 34,355 
+ 28,343 
+ - 
+ - 
+ 2 
+ 8 
+ - 
+ - 
+ - 
+ €10,000 
+ - 
+ - 
+ 1,283 
+ 1,058 
+ - 
+-
+ 2 
+ 5 
+ - 
+ 1 
+ - 
+ €59,883 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 5 
+ 367 
+ 54,031 
+ 44,576 
+ - 
+ 2 
+ 4 
+ 418 
+ 1 
+ 4 
+ - 
+ - 
+ 1 
+ - 
+ 1,876 
+ 1,548 
+ - 
+-
+ 1 
+ 29 
+ 1 
+ 4 
+ €31,305 
+ - 
+ 24 
+ 311 
+ 134,712 
+ 111,137 
+ - 
+ 1 
+ 29 
+ 227 
+ - 
+ - 
+ - 
+ €374,035 
+ - 
+ - 
+ 476 
+ 392 
+ - 
+-
+ - 
+ 10 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 1,354 
+ 1,117 
+ - 
+-
+ 3 
+ 5 
+ - 
+ - 
+ - 
+ €18,806 
+ - 
+ - 
+ 1,802 
+ 1,486 
+ - 
+-
+ - 
+ 16 
+ - 
+ - 
+ €17,085 
+ €93,977 
+ - 
+ - 
+ 8,694 
+ 7,172 
+ - 
+-
+ 4 
+ 20 
+ - 
+ - 
+ €31,723 
+ €71,805 
+ 51 
+ 826 
+252,038 
+ 207,932 
+ - 
+ 3 
+ 48 
+ 864 
+ 3 
+ 9 
+ €124,800 
+€1,370,629 
+about us
+our esg performance
+our governance approach
+37
+
+asset
+type
+size 
+(mw)
+location
+country
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+2023/
+2024
+mwhr 
+produced 
+co2 
+avoided 
+(tco2e) 
+# houses 
+powered
+internal 
+ehs audits
+notifiable 
+environmental 
+incidents
+garcia lorca: 
+colomera & pinos iv 
+solar farm
+ 45.7 
+andalusia
+spain
+not in operation in 
+reporting year
+ 9 
+ - 
+garcia lorca:
+picon
+solar farm
+ 49.6 
+castilla la 
+mancha
+spain
+not in operation in 
+reporting year
+ 32 
+ - 
+garcia lorca: 
+poblete
+exporting since jul 23
+solar farm
+ 20.1 
+castilla la 
+mancha
+spain
+ 21,112 
+ 3,737 
+ 5,400 
+ 1 
+ - 
+cruscades & canet
+exporting since jan 24
+wind farm
+ 13.4 
+occitanie
+france
+ 7,119 
+ 484 
+ 1,246 
+ 9 
+ - 
+pajuper
+exporting since dec 23
+wind farm
+ 86.8 
+haapajarvi
+finland
+ 58,576 
+ 3,890 
+ 7,254 
+ 23 
+ - 
+fund 2 subtotal
+ 5.0 
+ 215.6 
+86,806 
+ 8,111 
+ 13,901 
+ 74 
+ - 
+figure 29: l&g ntr clean power (europe) fund (fund 3)
+ntr asset esg performance metrics 
+(continued)
+ntr - esg annual report 2024
+38
+
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+2023/ 
+2024
+independent 
+ecological 
+audits
+site 
+inductions
+hours 
+worked
+local 
+employment 
+hours worked
+lost 
+time 
+incidents
+accidents
+near 
+misses
+good 
+observations
+community 
+meetings
+complaints
+community 
+fund grant 
+distributions 
+(€)
+payments 
+to local 
+authorities (€)
+ 21 
+ 76 
+ 65,084 
+ 53,694 
+ - 
+ - 
+ - 
+ 14 
+ - 
+ - 
+ - 
+ - 
+ 57 
+ 74 
+ 26,660 
+ 21,995 
+ 1 
+ - 
+ - 
+ 16 
+ - 
+ 1 
+ - 
+ - 
+ 36 
+ - 
+ 496 
+ 409 
+ - 
+ - 
+ - 
+ 3 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 5,755 
+ 4,748 
+ - 
+ - 
+ - 
+ 11 
+ 2 
+ - 
+ - 
+ - 
+ - 
+ 172 
+ 59,474 
+ 49,066 
+ - 
+ 1 
+ - 
+ 77 
+ 2 
+ - 
+ - 
+ - 
+ 114 
+ 322  157,469 
+ 129,912 
+ 1 
+ 1 
+ - 
+ 121 
+ 4 
+ 1 
+ - 
+ - 
+about us
+our esg performance
+our governance approach
+39
+
+our esg stories
+ntr encourages future 
+generation stem students
+ntr firmly believes in the 
+next generation of engineers, 
+finance and investment 
+professionals and ntr’s 
+team members give their 
+time to encourage students 
+towards the stem subjects 
+by giving them insight into our 
+business."

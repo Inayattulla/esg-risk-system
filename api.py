@@ -1,3 +1,15 @@
+
+import json
+import os
+REPORTS_FILE = 'reports.json'
+
+# Load existing reports if the file exists
+if os.path.exists(REPORTS_FILE):
+    with open(REPORTS_FILE, 'r', encoding='utf-8') as f:
+        stored_reports = json.load(f)
+else:
+    stored_reports = {}
+
 from flask import Flask, render_template, request, jsonify
 from werkzeug.utils import secure_filename
 import os
@@ -13,10 +25,11 @@ app = Flask(__name__)
 CORS(app)
 
 # File upload folder
-UPLOAD_FOLDER = 'uploads'
+UPLOAD_FOLDER = '/tmp/uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
+REPORTS_FILE = '/tmp/reports.json'
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -56,6 +69,16 @@ def upload_file():
         # Run NLP + ESG analysis
         cleaned_text = preprocess_text(raw_text)
         summary, analysis_data = generate_esg_scorecard(cleaned_text)
+
+         # Save report to dictionary
+        stored_reports[filename] = {
+        "summary": summary,
+        "analysis_data": analysis_data
+    }
+
+        # Persist to reports.json
+        with open(REPORTS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(stored_reports, f, indent=2, ensure_ascii=False)
 
 
         print("[INFO] Summary generated")

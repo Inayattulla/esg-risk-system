@@ -3,17 +3,20 @@ import os
 import fitz  # PyMuPDF
 import traceback
 
-def extract_text_from_pdf(pdf_path, save_to_file=True):
+def extract_text_from_pdf(pdf_path, save_to_file=True, max_pages=10):
     try:
         if not os.path.exists(pdf_path):
             print(f"[ERROR] File not found: {pdf_path}")
-            return
+            return ""
 
         doc = fitz.open(pdf_path)
         print(f"[INFO] Opened {pdf_path} with {len(doc)} pages")
 
         full_text = ""
         for page_num, page in enumerate(doc, start=1):
+            if page_num > max_pages:
+                print(f"[INFO] Page limit {max_pages} reached, stopping extraction.")
+                break
             text = page.get_text()
             full_text += text + "\n"
             print(f"[INFO] Page {page_num}: {'Text found' if text.strip() else 'No text found'}")
@@ -35,6 +38,7 @@ def extract_text_from_pdf(pdf_path, save_to_file=True):
     except Exception as e:
         print("[EXCEPTION] Error in extract_text.py:")
         traceback.print_exc()
+        return ""
 
 # CLI usage
 if __name__ == "__main__":

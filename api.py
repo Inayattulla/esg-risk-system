@@ -56,6 +56,11 @@ def upload_file():
         raw_text = extract_text_from_pdf(filepath, save_to_file=False)
         if not raw_text.strip():
             return jsonify({"error": "No text extracted from PDF"}), 500
+        
+        max_chars = 10000
+        if len(raw_text) > max_chars:
+            raw_text = raw_text[:max_chars]
+
 
         # Run NLP + ESG analysis
         cleaned_text = preprocess_text(raw_text)

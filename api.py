@@ -37,9 +37,12 @@ def index():
 @app.route('/upload', methods=['POST'])
 def upload_file():
     try:
+        if "file" not in request.files:
+            return jsonify({"error": "No file field in request"}), 400
+
         file = request.files['file']
-        if not file:
-            return jsonify({"error": "No file uploaded"}), 400
+        if file.filename == "":
+            return jsonify({"error": "Empty filename"}), 400
 
         filename = secure_filename(file.filename)
         filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
@@ -48,23 +51,11 @@ def upload_file():
 
         # Run extract_text.py using subprocess
         print(f"[INFO] Running extract_text.py on {filepath}")
-        result = subprocess.run(
-            ["python", "extract_text.py", filepath],
-            capture_output=True,
-            text=True
-        )
 
-        print("[DEBUG] extract_text.py stdout:", result.stdout)
-        print("[DEBUG] extract_text.py stderr:", result.stderr)
-        if result.returncode != 0:
-            return jsonify({
-                "error": "Text extraction failed",
-                "details": result.stderr
-            }), 500
-
-        # Read extracted text
-        with open("extracted_text.txt", "r", encoding="utf-8") as f:
-            raw_text = f.read()
+        # ✅ Extract text directly (no subprocess)
+        raw_text = extract_text_from_pdf(filepath, save_to_file=False)
+        if not raw_text.strip():
+            return jsonify({"error": "No text extracted from PDF"}), 500
 
         # Run NLP + ESG analysis
         cleaned_text = preprocess_text(raw_text)
@@ -94,5 +85,4 @@ def upload_file():
         return jsonify({"error": "Server error", "details": str(e)}), 500
 
 if __name__ == '__main__':
-    os.environ["FLASK_ENV"] = "development"
-    app.run(debug=True, use_reloader=False) 
+    app.run(host="0.0.0.0", port=5000, debug=True)

@@ -3,7 +3,7 @@ import os
 import fitz  # PyMuPDF
 import traceback
 
-def extract_text_from_pdf(pdf_path):
+def extract_text_from_pdf(pdf_path, save_to_file=True):
     try:
         if not os.path.exists(pdf_path):
             print(f"[ERROR] File not found: {pdf_path}")
@@ -22,12 +22,15 @@ def extract_text_from_pdf(pdf_path):
 
         if not full_text.strip():
             print("[WARNING] No extractable text found in the PDF.")
-            return
+            return ""
+        
+        if save_to_file:
+            outpath = os.path.join("/tmp", "extracted_text.txt")  # ✅ use /tmp
+            with open(outpath, "w", encoding="utf-8") as f:
+                f.write(full_text)
+            print(f"[SUCCESS] Extracted text saved to {outpath}")
 
-        with open("extracted_text.txt", "w", encoding="utf-8") as f:
-            f.write(full_text)
-
-        print("[SUCCESS] extracted_text.txt successfully created")
+        return full_text
 
     except Exception as e:
         print("[EXCEPTION] Error in extract_text.py:")
@@ -43,7 +46,10 @@ if __name__ == "__main__":
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"[ERROR] File not found: {pdf_path}")
 
-        extract_text_from_pdf(pdf_path)
+        text = extract_text_from_pdf(pdf_path, save_to_file=True)
+        if text.strip():
+            print("[CLI] Extraction complete, text length:", len(text))
+
 
     except Exception as e:
         print("[FATAL] Error in extract_text.py:", file=sys.stderr)

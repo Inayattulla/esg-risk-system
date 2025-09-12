@@ -1,7 +1,7 @@
 
 import json
 import os
-REPORTS_FILE = 'reports.json'
+REPORTS_FILE = '/tem/reports.json'
 
 # Load existing reports if the file exists
 if os.path.exists(REPORTS_FILE):
@@ -89,5 +89,5 @@ def upload_file():
         traceback.print_exc()
         return jsonify({"error": "Server error", "details": str(e)}), 500
 
-if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=5000, debug=True)
+#if __name__ == '__main__':
+   # app.run(host="0.0.0.0", port=5000, debug=True)

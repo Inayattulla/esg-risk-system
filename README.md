@@ -25,3 +25,5 @@ The ESG Risk Analyzer is a web-based tool that allows users to upload ESG (Envir
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+3. Run the app
+4. Open in browser
